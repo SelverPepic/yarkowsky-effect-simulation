@@ -1,7 +1,9 @@
 # yarkowsky-effect-simulation
-Numerical codes, presentation and files for a simulation of the Yarkowsky effect - a FDM radiative forcing, emission and thermal diffusion simulation + Verlet orbital evolution simulation, done separately.
+So what killed the dinosaurs? Yarkowsky´s effect, possibly ... also the laws of gravity, abrupt climate change, and much more :)
 
-What killed the dinosaurs? Yarkowsky´s effect! Also the laws of gravity, abrupt climate change, and much more... In essence, a rotating asteroid illuminated by the Sun will have its min/max temperature locations shifted by an angle (rel. to the Sun) simply due to rotation and the finite thermal diffusivity (i.e. things needing time to warm up and cool down) - which in turn leads to thermal photons from blackbody radiation to create an asymmetrical force along/against the orbital motion, and thus push the asteroid away from its orbit and towards the Earth.
+This repo contains the numerical codes, presentation and files for a simulation of the Yarkowsky effect - a FDM radiative forcing, emission and thermal diffusion simulation + Verlet orbital evolution simulation, done separately.
+
+In essence, a rotating asteroid illuminated by the Sun will have its min/max temperature locations shifted by an angle (rel. to the Sun) simply due to rotation and the finite thermal diffusivity (i.e. things needing time to warm up and cool down) - which in turn leads to thermal photons from blackbody radiation to create an asymmetrical force along/against the orbital motion, and thus push the asteroid away from its orbit and towards the Earth.
 
 ![Temperature map](figures/Yarkowsky_temperature_map.jpg)
 
