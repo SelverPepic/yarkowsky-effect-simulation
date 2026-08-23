@@ -5,4 +5,8 @@ What killed the dinosaurs? Yarkowsky´s effect! Also the laws of gravity, abrupt
 
 For more details, see the presentation and the info on asteroid Bennu and its 1/2000 chance to hit us (the same one from which NASA collected samples and flew them back to Earth in 2024, which is a great story on its own).
 
-TODO: identify and fix error in boundary conditions handling which causes energy input and thermal energy increase mismatch.
+TODOs:
+1. translate to Python
+2. refactor code
+3. identify and fix error in boundary conditions handling which causes energy input and thermal energy increase mismatch
+4. test vs. theoretical values for simple cases
