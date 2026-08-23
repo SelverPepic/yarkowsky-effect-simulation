@@ -7,7 +7,7 @@ In essence, a rotating asteroid illuminated by the Sun will have its min/max tem
 
 ![Temperature map](figures/Yarkowsky_temperature_map.jpg)
 
-For more details, see the presentation and the info on asteroid Bennu and its 1/2000 chance to hit us (the same one from which NASA collected samples and flew them back to Earth in 2024, which is a great story on its own).
+For more details, see the presentation and the info on asteroid Bennu and its ca. 1/2000 chance to hit the Earth in the next 200 years. This is also the same astroid from which NASA collected samples and flew them back to Earth in 2024, which is a great story on its own (see OSIRIS-REx mission).
 
 ![Solar system with asteroid Bennu](figures/Yarkowsky_orbit_setup.jpg)
 ![Solar system with asteroid Bennu](figures/Yarkowsky_orbit_plot.jpg)
