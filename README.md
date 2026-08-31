@@ -11,9 +11,3 @@ For more details, see the presentation and the info on asteroid Bennu and its ca
 
 ![Solar system with asteroid Bennu](figures/Yarkowsky_orbit_setup.jpg)
 ![Solar system with asteroid Bennu](figures/Yarkowsky_orbit_plot.jpg)
-
-TODOs:
-1. translate to Python
-2. refactor code
-3. identify and fix error in boundary conditions handling which causes energy input and thermal energy increase mismatch
-4. test vs. theoretical values for simple cases
